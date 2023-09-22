@@ -1,3 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#banner {
+    width: 100%;
+}
+
+
 body{
     background: rgb(255,0,116);
 background: linear-gradient(90deg, rgba(255,0,116,1) 0%, rgba(121,9,88,1) 35%, rgba(205,0,255,1) 100%);
